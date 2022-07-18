@@ -8,7 +8,7 @@ O usuário deve passar:</br>
 **email**</br>
 **senha**</br>
 
-Foi usado para criar o formulário foi utilizado:</br>
+Foi usado para criar o formulário utilizado:</br>
 **Html**</br>
 **Css**</br>
 
